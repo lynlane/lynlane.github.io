@@ -1,9 +1,9 @@
 # Site settings
 title: 棂兰的博客
-SEOTitle: 棂兰的博客（未完工，有空再做）
+SEOTitle: 棂兰's blog（未完工，有空再做）
 header-img: img/post-bg-desk.jpg
 email: lynlane@qq.com
-description: "类人心智系统的研究"
+description: "只因目中所见 并无尽头"
 keyword: "人工智能，认知哲学，认知科学，神经科学，持续学习"
 url: "https://lynlane.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
