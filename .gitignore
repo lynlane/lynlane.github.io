@@ -33,3 +33,22 @@ Temporary Items
 
 # debug file
 _site
+
+
+
+
+
+
+
+# Visual Studio 缓存和配置文件
+.vs/
+*.suo
+*.user
+*.sln.docstates
+# 其他常见忽略项（可选，推荐添加）
+.gitignore
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
